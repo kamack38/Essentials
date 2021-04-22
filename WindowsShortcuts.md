@@ -9,7 +9,7 @@
 
 # Windows 
 ## Apps
-All apps you can run using [`Windows Run`](#) or by simply typing in the `Windows Search`
+All apps you can run using `Windows Run` or by simply typing in the `Windows Search`
 
 <details>
 	<summary>Windows Run & Windows Search</summary>
