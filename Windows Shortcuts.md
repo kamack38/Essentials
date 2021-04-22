@@ -54,7 +54,7 @@ Key | Function
 <kbd>Win</kbd> + <kbd>A</kbd> | Show Notifications
 <kbd>Win</kbd> + <kbd>D</kbd> | Display and hide the Desktop
 <kbd>Win</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd> | Display and hide the date and time on the desktop
-<kbd><kbd>Win</kbd></kbd> + <kbd>E</kbd> | Open File Explorer
+<kbd>Win</kbd> + <kbd>E</kbd> | Open File Explorer
 <kbd>Win</kbd> + <kbd>I</kbd> | Open Settings
 <kbd>Win</kbd> + <kbd>L</kbd> | Lock your PC
 <kbd>Win</kbd> + <kbd>M</kbd> | Minimize all Windows
