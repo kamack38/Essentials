@@ -34,6 +34,7 @@ Name | Function
 `msconfig` | System Configuration Utility
 `devmgmt.msc` | Device Manager
 `winver` | Shows your windows version
+`wt` | Runs [Windows Terminal](https://www.microsoft.com/pl-pl/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 
 ## Shortcuts
 
