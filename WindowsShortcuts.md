@@ -1,30 +1,31 @@
 # Table of Contests
 
-- [Windows](#windows)
-	- [Apps](#apps)
-	- [Shortcuts](#shortcuts)
-	- [File Explorer](#file-explorer)
-- [Chrome](#chrome)
-	- [Google Translate](#google-translate)
+- [Table of Contests](#table-of-contests)
+  - [Windows](#windows)
+    - [Apps](#apps)
+    - [Shortcuts](#shortcuts)
+    - [File Explorer](#file-explorer)
+  - [Browser](#browser)
+  - [Google Translate](#google-translate)
 
-# Windows 
-## Apps
+## Windows
+
+### Apps
+
 All apps you can run using `Windows Run` or simply by typing in the `Windows Search`
 
 <details>
-	<summary>Windows Run & Windows Search</summary>
-	Windows Run :
-	<br />
-	<img src="img/WinRunMenu.png">
-	<br />
-	Windows Search :
-	<br />
-	<img src="img/WinSearchMenu.png">
+ <summary>Windows Run & Windows Search</summary>
+ Windows Run :
+ <br />
+ <img src="img/WinRunMenu.png">
+ <br />
+ Windows Search :
+ <br />
+ <img src="img/WinSearchMenu.png">
 </details>
 
-
-
-Name | Function 
+Name | Function
 -|-|
 `SndVol.exe` | Sound Mixer
 `main.cpl` | Mouse Settings
@@ -36,7 +37,7 @@ Name | Function
 `winver` | Shows your windows version
 `wt` | Runs [Windows Terminal](https://www.microsoft.com/pl-pl/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 
-## Shortcuts
+### Shortcuts
 
 Key | Function
 :-:|-
@@ -71,7 +72,7 @@ Key | Function
 <kbd>Win</kbd> + <kbd>;</kbd> | Open emoji panel
 <kbd>Alt</kbd> + <kbd>TAB</kbd> | Switch Apps
 
-## File Explorer
+### File Explorer
 
 Name | Function
 -|-
@@ -87,7 +88,7 @@ Name | Function
 <kbd>Alt</kbd> + <kbd>🡠</kbd>| View the previous folder
 <kbd>Alt</kbd> + <kbd>Enter</kbd> | Open the Properties dialog box for the selected item
 
-# Chrome
+## Browser
 
 Name | Function
 -|-
