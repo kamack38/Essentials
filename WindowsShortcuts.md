@@ -3,6 +3,7 @@
 - [Table of Contests](#table-of-contests)
   - [Windows](#windows)
     - [Apps](#apps)
+    - [Commands](#commands)
     - [Shortcuts](#shortcuts)
     - [File Explorer](#file-explorer)
   - [Browser](#browser)
@@ -36,6 +37,14 @@ Name | Function
 `devmgmt.msc` | Device Manager
 `winver` | Shows your windows version
 `wt` | Runs [Windows Terminal](https://www.microsoft.com/pl-pl/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+
+### Commands
+
+Command | Function
+-|-|
+`cls` | clears console
+`NETSH WLAN SHOW PROFILE` | show wifi profiles
+`NETSH WLAN SHOW PROFILE [profile name] KEY=CLEAR` | shows wifi password
 
 ### Shortcuts
 
