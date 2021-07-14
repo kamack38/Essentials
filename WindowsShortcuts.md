@@ -8,6 +8,8 @@
     - [File Explorer](#file-explorer)
   - [Browser](#browser)
   - [Google Translate](#google-translate)
+  - [Github](#github)
+    - [Repositories](#repositories)
 
 ## Windows
 
@@ -44,6 +46,7 @@ Command | Function
 -|-|
 `cls` | clears console
 `dir` | shows files and directories in current path
+`scp [source] [target]` *scp -r user@host:/path \path\folder* | copies file from remote server
 `NETSH WLAN SHOW PROFILE` | shows saved wifi profiles
 `NETSH WLAN SHOW PROFILE [profile name] KEY=CLEAR` | shows wifi password
 
@@ -114,3 +117,20 @@ Middle Click / <kbd>Ctrl</kbd> + Left Click| Open in a New Tab
 Key | Function
 -|-
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> | Switch Translated Language
+
+## Github 
+
+
+
+### Repositories
+
+Keybind | Function
+-|-
+<kbd>ctrl</kbd> + <kbd>/</kbd> | Focus secondary search bar
+<kbd>g</kbd> <kbd>c</kbd> | Go to Code
+<kbd>g</kbd> <kbd>i</kbd> | Go to Issues
+<kbd>g</kbd> <kbd>p</kbd> | Go to Pull Requests
+<kbd>g</kbd> <kbd>a</kbd> | Go to Actions
+<kbd>g</kbd> <kbd>b</kbd> | Go to Projects
+<kbd>g</kbd> <kbd>w</kbd> | Go to Wiki
+<kbd>g</kbd> <kbd>g</kbd> | Go to Discussions
