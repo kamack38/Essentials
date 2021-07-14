@@ -43,7 +43,8 @@ Name | Function
 Command | Function
 -|-|
 `cls` | clears console
-`NETSH WLAN SHOW PROFILE` | show wifi profiles
+`dir` | shows files and directories in current path
+`NETSH WLAN SHOW PROFILE` | shows saved wifi profiles
 `NETSH WLAN SHOW PROFILE [profile name] KEY=CLEAR` | shows wifi password
 
 ### Shortcuts
