@@ -45,10 +45,11 @@ Name | Function
 Command | Function
 -|-|
 `cls` | clears console
-`dir` | shows files and directories in current path
+`dir`, `ls` | shows files and directories in current path
 `scp [source] [target]` *scp -r user@host:/path \path\folder* | copies file from remote server
 `NETSH WLAN SHOW PROFILE` | shows saved wifi profiles
 `NETSH WLAN SHOW PROFILE [profile name] KEY=CLEAR` | shows wifi password
+`netsh interface set interface "Wi-fi" enable/disable` | enables/disable Wi-Fi
 
 ### Shortcuts
 
