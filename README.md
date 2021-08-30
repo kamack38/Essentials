@@ -1,3 +1,3 @@
-# Shortcut Cheatsheet
+# My Essenstials
 
-To see all the shortcuts click [here](WindowsShortcuts.md).
+This repo contains all of my cheatsheets to my essentsials. You can see them on [wiki](/wiki) 
